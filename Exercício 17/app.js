@@ -1,8 +1,10 @@
-let num1 = parseInt(prompt("Digite um número:"))
-let var1 = num1 - 1;
-let var2 = num1 + 1;
+let num = parseInt(prompt("Digite um número:"))
 
+document.getElementById('resultado').innerHTML = `O número digitado foi ${num}, seu antecesor é ${num - 1} e seu sucessor é ${num + 1}. `;
 
-document.getElementById('resultado').innerHTML = `O número digitado foi ${num1}, seu antecesor é ${var1} e seu sucessor é ${var2}. `;
+console.log ( `O número digitado foi ${num}, seu antecesor é ${num - 1} e seu sucessor é ${num + 1}. `)
 
-console.log ( `O número digitado foi ${num1}, seu antecesor é ${var1} e seu sucessor é ${var2}. `)
+/*  DICA PARA A PROVA 
+let num2 = 25
+console.log (num2++) imprime o numero primeiro e depois soma
+console.log (++num2+) imprime o numero primeiro e depois soma */ 
