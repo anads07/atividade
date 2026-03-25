@@ -1,0 +1,4 @@
+O erro do código está na linha do console.log.
+Falta o operador de concatenação (+) entre o texto e a variável resultado.
+
+Do jeito que está escrito, o JavaScript não entende a junção da string com a variável, causando erro de sintaxe.
