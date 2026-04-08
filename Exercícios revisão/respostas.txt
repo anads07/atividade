@@ -1,0 +1,29 @@
+Exercício 1: 
+e) ✔
+
+Exercício 2: 
+b) ✔
+
+Exercício 3: 
+a) ✔
+
+Exercício 4:
+b) ✔
+
+Exercício 5:
+d) ✔
+
+Exercício 6:
+d) ✔
+
+Exercício 7:
+a) x - correto é a letra b, na linha if (numero % 2 = 0) o ooperador de comparação de igualdade deve ser === em vez de =.
+
+Exercício 8:
+a) ✔
+
+Exercício 9:
+a) ✔
+
+Exercício 10:
+d) ✔
